@@ -1,4 +1,15 @@
-                    GNU GENERAL PUBLIC LICENSE
+            Audit Time:
+2025-06-10 00:00:00 (UTC+0)
+Audit Algorithm:
+Merkle Tree + zk-SNARKs
+Total Value of Assets Audited:
+8,491,544,201 USDT
+Excess Reserve Value:
+1,960,990,582 USDT
+Total Reserve Ratio:
+123.09%
+Merkle Root Hash:
+14c12e9eb4a987919d27d4939db2a01e8fadb68d2c10c70c7092501b39e1f427        GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
